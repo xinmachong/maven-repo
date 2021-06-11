@@ -16,7 +16,7 @@
 
 ```xml
 <dependencies>
-	<dependency>
+    <dependency>
         <groupId>com.xinmachong</groupId>
         <artifactId>xmctools</artifactId>
         <version>1.0-RELEASES</version>
