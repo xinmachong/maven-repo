@@ -24,7 +24,7 @@
 </dependencies>
 ```
 
-#### 二、配置 application.yml（前提是需要使用 JWT）
+#### 二、配置 application.yml（只要引入这个 maven 包就需要使用 JWT，就好比引入可 mysql 驱动就需要配置数据库信息）
 
 ```properties
 xinmachong:
